@@ -49,6 +49,49 @@
 
   <img width="381" height="86" alt="image" src="https://github.com/user-attachments/assets/177819ab-f9f8-49cf-9de3-c2ebbf52e90e" />
 
+  Вставил строку с ?
+
+  <img width="564" height="115" alt="image" src="https://github.com/user-attachments/assets/7e4f2f43-6f38-4842-b14a-1d836ac8f575" />
+
+  Скопировал 16 по 29 строки в printword.c
+
+  <img width="352" height="70" alt="image" src="https://github.com/user-attachments/assets/2dbbc463-b2a4-4955-a9a9-309fb3437d7e" />
+
+  Проверил, что файл создался и не пустой
+
+  <img width="889" height="455" alt="image" src="https://github.com/user-attachments/assets/0a253a5e-9af9-41af-a15a-52cb4de7df25" />
+
+  Удалил две последнии строки (переместил курсор в конец и два раза тапнул dd)
+
+  <img width="465" height="101" alt="image" src="https://github.com/user-attachments/assets/29c58825-c5df-4309-99b4-b678013e7350" />
+
+  Перешел в начало файла, нажал v с помощью стрелочек выделил блок, нажал d
+
+  Перешел в конец файла, нажал o, после появления новой строки сдвинул курсор в начало строки и нажал esc, затем нажал p
+
+  <img width="789" height="268" alt="image" src="https://github.com/user-attachments/assets/2498f408-44db-42ba-8ac6-7971ba785ae1" />
+
+  Сохранли содержимое в testvim.c
+
+  <img width="238" height="84" alt="image" src="https://github.com/user-attachments/assets/079b47ba-c438-4319-8bcd-1f6ed6eef21d" />
+
+  q!
+
+  Проверил файл testvim.c
+
+  <img width="752" height="292" alt="image" src="https://github.com/user-attachments/assets/86e348c5-9273-45dc-9ed9-29c756a500ca" />
+
+  Проверил файл copy_testcase.c
+
+  <img width="950" height="439" alt="image" src="https://github.com/user-attachments/assets/6b5e45c0-a273-4518-8f47-c49479e517a0" />
+
+
+
+
+
+
+
+
 
 
 
