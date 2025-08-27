@@ -34,7 +34,6 @@
 
   <img width="650" height="932" alt="image" src="https://github.com/user-attachments/assets/18378ff9-a503-421a-880d-9ec00beeda66" />
 
-
   Заменил WORD на IGNORE ':%s/WORD/IGNORE/gc'
 
   <img width="277" height="127" alt="image" src="https://github.com/user-attachments/assets/7c6767ed-d15d-4ca4-b770-1b14d43b5dee" />
@@ -84,6 +83,23 @@
   Проверил файл copy_testcase.c
 
   <img width="950" height="439" alt="image" src="https://github.com/user-attachments/assets/6b5e45c0-a273-4518-8f47-c49479e517a0" />
+
+Задание 4.
+  
+  Установил nginx
+
+  <img width="1157" height="718" alt="image" src="https://github.com/user-attachments/assets/19a1570d-c19f-4b9a-abd8-9a7981688d7e" />
+
+  Просмотрел логи nginx
+
+  <img width="1252" height="503" alt="image" src="https://github.com/user-attachments/assets/5f383a4b-32f2-4ba2-ac6f-3a250b804d02" />
+
+  Посмотрел нагрузку htop
+
+  <img width="1388" height="951" alt="image" src="https://github.com/user-attachments/assets/c7a798e7-d33b-4f4d-8b57-c4058854a67f" />
+
+
+
 
 
 
