@@ -98,6 +98,11 @@
 
   <img width="1388" height="951" alt="image" src="https://github.com/user-attachments/assets/c7a798e7-d33b-4f4d-8b57-c4058854a67f" />
 
+  Проверил логи действий пользователей sudo cat /var/log/auth.log
+
+  <img width="1835" height="894" alt="image" src="https://github.com/user-attachments/assets/d9eea615-1379-41c2-8823-edd467415df4" />
+
+
 
 
 
